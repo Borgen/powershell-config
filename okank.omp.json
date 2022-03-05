@@ -136,7 +136,7 @@
             "{{ if gt .Code 0 }}#ef5350{{ end }}"
           ],
           "properties": {
-            "template": "⚡ "
+            "template": "->"
           },
           "style": "plain",
           "type": "text"
